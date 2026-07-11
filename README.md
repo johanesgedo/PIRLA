@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="assets_log/pirla_logo.png" alt="PIRLA Logo" width="400">
-</p>
-
-
-
 # PIRLA
 
 **Physics-Informed Reinforcement Learning Agent**
