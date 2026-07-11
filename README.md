@@ -1,12 +1,12 @@
 # PIRLA
 
 **Physics-Informed Reinforcement Learning Agent**
+[![DOI]()]()
 
 PIRLA is and experimental framework that combines reinforcement learning with physics-informed learning in a unified engine.
 
 This repository is intended for research and experimental on artificial intelligence systems governed by physical constraints, hierarchical temporal structure, and adaptive learning mechanisms, designed to solve inverse problems and seismic imaging.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20513088.svg)](https://doi.org/10.5281/zenodo.20513088)
 > **DOI:** 
 
 ---
