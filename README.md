@@ -1,7 +1,7 @@
 # PIRLA
 
 **Physics-Informed Reinforcement Learning Agent**
-[![DOI](https://doi.org/10.5281/zenodo.21305054)](https://doi.org/10.5281/zenodo.21305054)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21305054.svg)](https://doi.org/10.5281/zenodo.21305054)
 
 PIRLA is and experimental framework that combines reinforcement learning with physics-informed learning in a unified engine.
 
