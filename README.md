@@ -6,7 +6,7 @@ PIRLA is and experimental framework that combines reinforcement learning with ph
 
 This repository is intended for research and experimental on artificial intelligence systems governed by physical constraints, hierarchical temporal structure, and adaptive learning mechanisms, designed to solve inverse problems and seismic imaging.
 
-[![DOI](https://doi.org/10.5281/zenodo.20513088)](https://doi.org/10.5281/zenodo.20513088)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20513088.svg)](https://doi.org/10.5281/zenodo.20513088)
 > **DOI:** 
 
 ---
